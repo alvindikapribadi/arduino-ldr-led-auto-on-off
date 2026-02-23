@@ -31,6 +31,14 @@ The LED turns ON automatically when it is dark and turns OFF when it is bright.
 
 ---
 
+## 📷 Wiring Diagram
+
+![Wiring Diagram](diagram.png)
+
+> Make sure your wiring matches the table above before uploading the code.
+
+---
+
 ## ⚙️ How It Works
 
 The Arduino reads the analog value from the LDR using pin A0.
@@ -47,12 +55,18 @@ You can adjust the threshold value inside the code depending on your room lighti
 
 Open the `.ino` file in Arduino IDE and upload it to your board.
 
+You can download the Arduino sketch here:
+
+[Download Arduino Code](Arduino_LDR_LED_Auto_ON_OFF.ino)
+
+Or open the `.ino` file directly inside this repository.
+
 ---
 
 ## 🎥 Video Tutorial
 
 Watch the full tutorial on YouTube:
-https://youtu.be/SRmII0MaIQU
+👉 https://youtu.be/SRmII0MaIQU
 
 ---
 
